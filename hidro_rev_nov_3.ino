@@ -29,7 +29,7 @@ int NilaiTemp = 31;
 #define DHTTYPE DHT11
 #define trigPin D6
 #define echoPin D7
-#define dhtPin D2
+#define dhtPin D8 // ganti jadi d8 D2 dipakek buat RTC nantinya
 #define relay1 D3
 #define relay2 D4
 #define TdsSensorPin A0
